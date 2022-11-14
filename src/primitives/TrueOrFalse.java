@@ -1,0 +1,15 @@
+package primitives;
+
+public class TrueOrFalse {
+    public static void main(String[] args) {
+        /*
+        boolean is used store either true or false
+        It will only take 1 bit
+         */
+        boolean b1 = true;
+        boolean b2 = false;
+
+        System.out.println(b1);
+        System.out.println(b2);
+    }
+}
